@@ -1,0 +1,17 @@
+/** @format */
+
+h1 {
+  font-size: 50px;
+  text-decoration: underline;
+  color: brown;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+  color: grey;
+}
+
+body {
+  background-color: beige;
+}
